@@ -1,0 +1,84 @@
+2019-10-26 13:49:53,194 myemail [INFO] 13676 myemail sendMail 109: 收件人：xxx@qq.com,Cc：yyy@qq.com
+2019-10-26 13:49:53,194 myemail [INFO] 13676 myemail getMsgByEmail 62: 获取文件：E:\github_repo\scrapy_site/scrapy_site/email.conf
+2019-10-26 13:49:53,210 myemail [INFO] 13676 myemail getMsgByEmail 68: b2b10086,bidding,chinabidding,chinaunicombidding,csbidding,gdgpogov,gzsggzyjyzx,mssportal,telewiki,zycggov===xxx@qq.com===yyy@qq.com
+2019-10-26 13:49:53,226 myemail [INFO] 13676 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/b2b10086
+2019-10-26 13:55:54,974 myemail [INFO] 4856 myemail sendMail 109: 收件人：yuyang0907@gmail.com,Cc：yuyang0907@gmail.com
+2019-10-26 13:55:54,974 myemail [INFO] 4856 myemail getMsgByEmail 62: 获取文件：E:\github_repo\scrapy_site/scrapy_site/email.conf
+2019-10-26 13:55:54,974 myemail [INFO] 4856 myemail getMsgByEmail 68: b2b10086,bidding,chinabidding,chinaunicombidding,csbidding,gdgpogov,gzsggzyjyzx,mssportal,telewiki,zycggov===yuyang0907@gmail.com===yuyang0907@gmail.com
+2019-10-26 13:55:54,974 myemail [INFO] 4856 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/b2b10086
+2019-10-26 13:56:56,815 myemail [INFO] 8576 myemail sendMail 109: 收件人：yuyang0907@gmail.com,Cc：yuyang0907@gmail.com
+2019-10-26 13:56:56,819 myemail [INFO] 8576 myemail getMsgByEmail 62: 获取文件：E:\github_repo\scrapy_site/scrapy_site/email.conf
+2019-10-26 13:56:56,819 myemail [INFO] 8576 myemail getMsgByEmail 68: b2b10086,bidding,chinabidding,chinaunicombidding,csbidding,gdgpogov,gzsggzyjyzx,mssportal,telewiki,zycggov===yuyang0907@gmail.com===yuyang0907@gmail.com
+2019-10-26 13:56:56,821 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/b2b10086
+2019-10-26 13:56:56,822 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:移动采集网---
+
+2019-10-26 13:56:56,831 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/bidding
+2019-10-26 13:56:56,832 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:南方电网招标网---
+
+2019-10-26 13:56:56,835 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/chinabidding
+2019-10-26 13:56:56,836 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:中国采购与招标网---
+
+2019-10-26 13:56:56,845 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/chinaunicombidding
+2019-10-26 13:56:56,846 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:中国联通采购与招标网---
+
+2019-10-26 13:56:56,851 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/csbidding
+2019-10-26 13:56:56,852 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:南航集团招标网---
+
+2019-10-26 13:56:56,865 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/gdgpogov
+2019-10-26 13:56:56,867 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:广东省政府采购系统---
+
+2019-10-26 13:56:56,877 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/gzsggzyjyzx
+2019-10-26 13:56:56,878 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:贵州省公共资源交易平台---
+
+2019-10-26 13:56:56,882 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/mssportal
+2019-10-26 13:56:56,884 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:电信供应商外部门户系统---
+
+2019-10-26 13:56:56,895 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/telewiki
+2019-10-26 13:56:56,897 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:电信维基网---
+
+2019-10-26 13:56:56,901 myemail [INFO] 8576 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/zycggov
+2019-10-26 13:56:56,904 myemail [INFO] 8576 myemail getInfoFromFile 30: ---网站名称:中央政府招标网---
+
+2019-10-26 13:56:58,490 myemail [ERROR] 8576 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:56:59,007 myemail [ERROR] 8576 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:56:59,476 myemail [ERROR] 8576 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:56:59,987 myemail [ERROR] 8576 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:57:00,451 myemail [ERROR] 8576 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:59:03,630 myemail [INFO] 13684 myemail sendMail 109: 收件人：yuyang0907@gmail.com,Cc：yuyang0907@gmail.com
+2019-10-26 13:59:03,630 myemail [INFO] 13684 myemail getMsgByEmail 62: 获取文件：E:\github_repo\scrapy_site/scrapy_site/email.conf
+2019-10-26 13:59:03,630 myemail [INFO] 13684 myemail getMsgByEmail 68: b2b10086,bidding,chinabidding,chinaunicombidding,csbidding,gdgpogov,gzsggzyjyzx,mssportal,telewiki,zycggov===yuyang0907@gmail.com===yuyang0907@gmail.com
+2019-10-26 13:59:03,630 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/b2b10086
+2019-10-26 13:59:03,630 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:移动采集网---
+
+2019-10-26 13:59:03,645 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/bidding
+2019-10-26 13:59:03,645 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:南方电网招标网---
+
+2019-10-26 13:59:03,645 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/chinabidding
+2019-10-26 13:59:03,661 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:中国采购与招标网---
+
+2019-10-26 13:59:03,661 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/chinaunicombidding
+2019-10-26 13:59:03,661 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:中国联通采购与招标网---
+
+2019-10-26 13:59:03,677 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/csbidding
+2019-10-26 13:59:03,677 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:南航集团招标网---
+
+2019-10-26 13:59:03,677 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/gdgpogov
+2019-10-26 13:59:03,677 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:广东省政府采购系统---
+
+2019-10-26 13:59:03,677 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/gzsggzyjyzx
+2019-10-26 13:59:03,677 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:贵州省公共资源交易平台---
+
+2019-10-26 13:59:03,710 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/mssportal
+2019-10-26 13:59:03,710 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:电信供应商外部门户系统---
+
+2019-10-26 13:59:03,710 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/telewiki
+2019-10-26 13:59:03,710 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:电信维基网---
+
+2019-10-26 13:59:03,710 myemail [INFO] 13684 myemail getMsgByEmail 84: 获取文件：E:\github_repo\scrapy_site/scrapy_site/msg/zycggov
+2019-10-26 13:59:03,710 myemail [INFO] 13684 myemail getInfoFromFile 30: ---网站名称:中央政府招标网---
+
+2019-10-26 13:59:04,226 myemail [ERROR] 13684 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:59:04,707 myemail [ERROR] 13684 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:59:05,256 myemail [ERROR] 13684 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:59:05,786 myemail [ERROR] 13684 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
+2019-10-26 13:59:06,302 myemail [ERROR] 13684 myemail sendMail 145: 无法发送邮件:(535, 'Error: authentication failed')
